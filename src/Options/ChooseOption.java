@@ -10,4 +10,8 @@ public class ChooseOption {
     public void enrollNewEmp(){
         System.out.println("Ashutosh Enrolled as an Employee...!");
     }
+
+    public void authUser(){
+        System.out.println("user authentication");
+    }
 }
