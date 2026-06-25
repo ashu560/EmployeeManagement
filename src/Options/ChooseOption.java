@@ -6,4 +6,8 @@ public class ChooseOption {
         System.out.println("1. Enroll Employee");
         System.out.println("2. Leave Calender");
     }
+
+    public void enrollNewEmp(){
+        System.out.println("Ashutosh Enrolled as an Employee...!");
+    }
 }
